@@ -1,0 +1,2 @@
+# leetcode-python
+algorithm practise
