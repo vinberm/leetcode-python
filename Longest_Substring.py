@@ -17,7 +17,7 @@ class Solution(object):
 
 
 def main():
-    s = "aaaaaaaa"
+    s = "aaaaaabgaa"
     solu = Solution()
     result = solu.lengthOfLongestSubstring(s)
     print(result)
